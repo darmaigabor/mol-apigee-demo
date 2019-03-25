@@ -1,0 +1,6 @@
+hu\mol\apigee\demo\model\Meal.class
+hu\mol\apigee\demo\model\Order.class
+hu\mol\apigee\demo\services\FreshCornerService.class
+hu\mol\apigee\demo\model\Shop.class
+hu\mol\apigee\demo\model\Drink.class
+hu\mol\apigee\demo\services\OrderService.class
